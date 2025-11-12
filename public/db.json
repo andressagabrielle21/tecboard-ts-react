@@ -1,0 +1,109 @@
+{
+    "cards": [
+        {   
+            "image": "./card-image/Imagem(1).png",
+            "area": "Front-end",
+            "dateTime": "20/05/2025",
+            "title": "Mulheres no Front",
+            "description": "Valorizando e impulsionando a participação feminina no desenvolvimento front-end."
+        },
+        {   
+            "image": "./card-image/Imagem(2).png",
+            "area": "Front-end",
+            "dateTime": "20/05/2025",
+            "title": "Pixel & Code",
+            "description": "Meetup unindo design e desenvolvimento front-end para explorar tendências em UI."
+        },
+        {   
+            "image": "./card-image/Imagem(3).png",
+            "area": "Back-end",
+            "dateTime": "20/05/2025",
+            "title": "Back-End Masters",
+            "description": "Performance e inovação no back-end, conectando especialistas e entusiastas."
+        },
+        {   
+            "image": "./card-image/Imagem(4).png",
+            "area": "Back-end",
+            "dateTime": "20/05/2025",
+            "title": "Code to Core",
+            "description": "Workshop que explora a essência do back-end, escalabilidade e boas práticas."
+        },
+        {   
+            "image": "./card-image/Imagem(5).png",
+            "area": "Back-end",
+            "dateTime": "20/05/2025",
+            "title": "Server Side Summit",
+            "description": "Evento dedicado a tecnologias e estratégias para desenvolvimento back-end."
+        },
+        {   
+            "image": "./card-image/Imagem(6).png",
+            "area": "DevOps",
+            "dateTime": "20/05/2025",
+            "title": "DevOps Evolution",
+            "description": "Congresso sobre automação, CI/CD, cultura DevOps, tendências e inovações."
+        },
+        {   
+            "image": "./card-image/Imagem(7).png",
+            "area": "Inteligência Artificial",
+            "dateTime": "20/05/2025",
+            "title": "Deep Learning Days",
+            "description": "Imersão sobre IA, redes neurais e aprendizado profundo."
+        },
+        {   
+            "image": "./card-image/Imagem(8).png",
+            "area": "Inteligência Artificial",
+            "dateTime": "20/05/2025",
+            "title": "IA Segura e Acessível",
+            "description": "Workshop IA em dispositivos móveis, aplicando a tecnologia em soluções acessíveis."
+        },
+        {   
+            "image": "./card-image/Imagem(9).png",
+            "area": "Inteligência Artificial",
+            "dateTime": "20/05/2025",
+            "title": "IA na palma da mão",
+            "description": "Palestra sobre segurança e inclusão em soluções baseadas em inteligência artificial."
+        },
+        {   
+            "image": "./card-image/Imagem(10).png",
+            "area": "Data Science",
+            "dateTime": "20/05/2025",
+            "title": "Data Pulse",
+            "description": "Congresso sobre dados nas decisões estratégicas, análise e inovações da ciência de dados."
+        },
+        {   
+            "image": "./card-image/Imagem(11).png",
+            "area": "Data Science",
+            "dateTime": "20/05/2025",
+            "title": "Data Revolution",
+            "description": "Palestra sobre últimas tendências em big data, análise e inteligência empresarial."
+        },
+        {   
+            "image": "./card-image/Imagem(12).png",
+            "area": "Data Science",
+            "dateTime": "20/05/2025",
+            "title": "Driven by Data",
+            "description": "Minicurso sobre como dados impulsionam decisões e inovações para o futuro."
+        },
+        {   
+            "image": "./card-image/Imagem(13).png",
+            "area": "Data Science",
+            "dateTime": "20/05/2025",
+            "title": "SQL Summit",
+            "description": "Ciclo de palestras com especialistas do universo dos bancos de dados SQL."
+        },
+        {   
+            "image": "./card-image/Imagem(14).png",
+            "area": "Cloud",
+            "dateTime": "20/05/2025",
+            "title": "SkyTech Summit",
+            "description": "Palestra sobre tendências em computação em nuvem, escalabilidade e infraestrutura."
+        },
+        {   
+            "image": "./card-image/Imagem.png",
+            "area": "Cloud",
+            "dateTime": "20/05/2025",
+            "title": "Mundo Cloud",
+            "description": "Encontro de especialistas e entusiastas para discutir novidades da tecnologia cloud."
+        }
+    ]
+}

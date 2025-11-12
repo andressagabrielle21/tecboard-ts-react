@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+.bg-main {
+  background-color: #06151A;
+}
+
+.banner-gradient {
+  background: linear-gradient(180deg, #17e4b9 0%, #091D24 100%);
+}
+
+.bg-components {
+  background-color: #212121;
+}
+
+.secondary-text {
+  color: #33353F;
+}
+
+.bg-primary {
+  background-color: #17d9b1;
+}
+
+.work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: #fff;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+.orbitron-font {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  color: #FFFFFF;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
